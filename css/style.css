@@ -1,0 +1,64 @@
+.weather_app{
+  font-family:Aclonica;
+  margin-bottom:2%;
+  padding: 10px;
+  text-align:center;
+  text-shadow: 5px 1px 5px blue, 0 0 25px gold, 0 0 69px red;
+
+
+}
+.circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 10%;
+  font-size: 18px;
+  color: #0e0f0f;
+  text-align: center;
+  border: 0.5px solid;
+  border-radius: 65px;
+  margin-bottom:10%;
+  margin-left:5%;
+  box-shadow: -5px -5px 5px    #ddffed;
+  font-family:Aclonica;
+  display:inline-block;
+  padding-top:25px;
+  float:left;
+  flex-wrap:wrap;
+}
+
+.mobile-button {
+  color: black;
+  border-radius: 5px;
+  margin-left:1.8%;
+  margin-bottom:2%;
+  cursor:pointer;
+  outline:none;
+  border: none;
+  background: transparent;
+
+
+}
+
+body {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  flex-wrap:wrap;
+  display:fixed;
+  wrap:1 1 50%;
+  flex-direction: column;
+}
+.seredina{
+  display:block;
+  width:100%;
+}
+.itemPromo{
+  font-family:;
+  font-size:24px;
+}
+.end{ 
+  text-align:center;
+  font-family:"Amatic SC";
+  font-size:30px;
+  text-decoration: none;  
+}
